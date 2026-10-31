@@ -1,4 +1,6 @@
-package com.Package;
+package com.Package.TaskManagementSystem;
+
+import com.Package.TaskManager;
 
 import java.util.Scanner;
 
